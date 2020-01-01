@@ -56,4 +56,4 @@ Puedes seguir mi cuenta en CTFlearn la cual se encuentra en el top 200 del ranki
 
 ### Remember us and remember that we lived
 
-![Screenshot](images/von.png)
+![Screenshot](images/von.jpg)
