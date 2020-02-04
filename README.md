@@ -1,5 +1,4 @@
-# 
-CTF CSIRT-PONAL
+# CTF CSIRT-PONAL
 
 ## Write-ups
 
@@ -22,4 +21,4 @@ Sin embargo, aún así llegué al top 15 sin contar con un equipo como el resto 
 
 ### Remember us and remember that we lived
 
-![Screenshot](Images/von.png)
+![Screenshot](Images/von.jpg)

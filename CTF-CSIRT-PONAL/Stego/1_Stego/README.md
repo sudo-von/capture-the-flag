@@ -20,4 +20,4 @@ y efectivamente era esta.
 
 ![Extracción](Images/02.png)
 
-![Flag](Images/31.png)
+![Flag](Images/03.png)
