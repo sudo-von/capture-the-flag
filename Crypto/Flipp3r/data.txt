@@ -1,0 +1,91 @@
+flipid=4
+token = Wudlhap9E+TNKa6nj5n+BA==
+iv = A*16
+
+change char 8 of iv to change id number
+connect to service
+
+nc 3.19.72.219 3166
+
+                 DEVELOPED BY FL1PP3R THE DOLPHIN 
+                                   _
+                               _.-~  )
+                    _..--~~~~,'   ,-/     _
+                 .-'. . . .'   ,-','    ,' )
+               ,'. . . _   ,--~,-'__..-'  ,'
+             ,'. . .  (@)' ---~~~~      ,'
+            /. . . . '~~             ,-'
+           /. . . . .             ,-'
+          ; . . . .  - .        ,'
+         : . . . .       _     /
+        . . . . .          `-.:
+       . . . ./  - .          )
+      .  . . |  _____..---.._/ ____ 
+~---~~~~----~~~~             ~~
+
+Bienvenido humano, tu token de autenticacion es: kU/ETm5FHl97+pQg3ZN2UQ== para el flipid=2 
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: kU/ETm5FHl97+pQg3ZN2UQ== 
+ERROR, opcion incorrecta
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: 1
+Ingresa tu token: kU/ETm5FHl97+pQg3ZN2UQ== 
+Ingresa la llave de inicializacion: ABAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+El token pertenece al usuario: foipid=2
+Quieres seguir intentando? (S/N): s
+
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: 1
+Ingresa tu token: kU/ETm5FHl97+pQg3ZN2UQ== 
+Ingresa la llave de inicializacion: AAAAAAABAAAAAAAA
+
+El token pertenece al usuario: flipid=1
+Quieres seguir intentando? (S/N): S
+Ingresa tu token: kU/ETm5FHl97+pQg3ZN2UQ== 
+Ingresa la llave de inicializacion: AAAAAAA=AAAAAAAAAAAAAAAAA
+
+El token pertenece al usuario: flipid=N
+Quieres seguir intentando? (S/N): s
+
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: 1
+Ingresa tu token: kU/ETm5FHl97+pQg3ZN2UQ== 
+Ingresa la llave de inicializacion: AAAAAAAFAAAAAAAAAAAA
+
+El token pertenece al usuario: flipid=5
+Quieres seguir intentando? (S/N): s
+
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: 1
+Ingresa tu token: kU/ETm5FHl97+pQg3ZN2UQ== 
+Ingresa la llave de inicializacion: AAAAAAAGAAAAAAAAAAAAAAA
+
+El token pertenece al usuario: flipid=4
+Quieres seguir intentando? (S/N): s
+
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: 1
+Ingresa tu token: kU/ETm5FHl97+pQg3ZN2UQ== 
+Ingresa la llave de inicializacion: AAAAAAAEAAAAAAAAAAAA
+
+Felicidades: hackdef{_nunC4_dej3s_3l_c0ntR0l_d3l_IV_a_uN_usuAr1o_qU3_3nt1end3_3L_m0d0_d3_op3r4ci0n_CBC_}
+
+
+***Si tienes un token previo usalo para autenticarte a continuacion.
+1) Ingresar
+2) Salir
+Eleccion: 2
+Adios...
