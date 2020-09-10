@@ -70,6 +70,8 @@ if __name__ == "__main__":
     server.serve_forever()
 ```
 
+### Solucion
+
 Accediendo a el con netcat ```nc 18.221.44.9 3133``` y eligiendo la tercera opcion, nos regresa un base64 de la flag:
 ```AgfJA2rLzNTIyxnLnJrFm3nFzdnTnhmXngqWx2y0yZfSx3a0CJrFyZbTm256nhj9cG==```
 pero al tratar de decodificarlo aparece como invalido.
