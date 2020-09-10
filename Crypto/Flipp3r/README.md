@@ -8,9 +8,9 @@ Este reto nos da otra ip con un servicio y nos vuelve a dar un script de python.
 ```nc 3.19.72.219 3166```
 
 Analizando el codigo nos damos cuenta de que es un cifrado AES con modo CBC, y que el servicio nos da un base64 del string
-*"flipid=0"* encriptado con una key aleatoria y el iv *"AAAAAAAAAAAAAAAA"*
+*"flipid="* 0-5 encriptado con una key aleatoria y el iv *"AAAAAAAAAAAAAAAA"*
 
-Para que nos de la flag necesitamos darle un string que decodificado nos de *"flipid=6"* que es el id del administrador.
+Para que nos de la flag necesitamos darle un string y un iv que decodificado nos de *"flipid=6"* que es el id del administrador.
 
 ```python
 import socketserver
