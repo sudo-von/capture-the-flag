@@ -19,7 +19,7 @@ Crypto
 
 ## Miembros del equipo:
 
-+[Von](https://twitter.com/developerjesus)
++[Von](https://github.com/developer-jesus-github)
 +[Vanski](https://github.com/ivanmedina)
 +[Diego](https://github.com/Drdzmtz)
 +[Manjaro](https://github.com/mariomanza150)
