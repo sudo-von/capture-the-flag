@@ -70,10 +70,19 @@ if __name__ == "__main__":
     server.serve_forever()
 ```
 
-Accediendo a el con netcat ```nc 18.221.44.9 3133``` y eligiendo la tercera opcion, nos regresa un base64:
+Accediendo a el con netcat ```nc 18.221.44.9 3133``` y eligiendo la tercera opcion, nos regresa un base64 de la flag:
 ```AgfJA2rLzNTIyxnLnJrFm3nFzdnTnhmXngqWx2y0yZfSx3a0CJrFyZbTm256nhj9cG==```
 pero al tratar de decodificarlo aparece como invalido.
 
 Analizando el codigo del servicio nos damos cuenta que hay una funcion que invierte las mayusculas y minusculas del base64,
 aplicando la misma funcion al base64 que nos regresa el servicio ya lo podemos decodificar y nos da la flag:
+
+```python
+import base64
+
+def magic(cryptic):
+    return ''.join(c.lower() if c.isupper() else c.upper() if c.islower() else c for c in list(cryptic))
+
+c = 'AgfJA2rLzNTIyxnLnJrFm3nFzdnTnhmXngqWx2y0yZfSx3a0CJrFyZbTm256nhj9cG=='
+print(base64.b64decode(magic(c)))```
 ```hackdef{base64_3s_d3m4s14d0_f4c1l_p4r4_c0m3nz4r}```
