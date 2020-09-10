@@ -170,11 +170,10 @@ Tenemos una ventaja, sabemos que las flags tienen formato ***hackdef{***. Esto q
 
 Con la informacion que tenemos, sabiendo que queremos X tal que X sean las iteraciones de los caracteres del usuario correcto, y entendiendo las operaciones que se hacen para asignarle valor a b, podemos reescribir el problema en la siguiente ecuacion:
  
-
-<p align = center> <b> b_{i} = ord(arr2_{i}) XOR (X + (arr1_{i})) </b> </p>
-
+![CTF](./img/svg.svg)
 
 En donde arr2 es el array creado con el mensaje de la excepcion, y arr1 es el array que ya tenia hardcodeado el programa.
+Solo es cuestion de despejar X
 Hicimos unas iteraciones a mano, y nos dio como resultado: **Per**
 
 Si Jax.exe nos regresa basura, pero que tenga sus primeros 3 caracteres como *hac*, sabremos que lo hemos hecho bien
