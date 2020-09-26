@@ -19,10 +19,11 @@ Después de leer la documentación oficial de PHP noté que la función is_numer
 
 Así fue como llegué a la solución del reto pues 9e9 cumple con ser un número, ser menor a 4 caracteres de longitud y ser mayor a 10,000. 
 
+De esta forma obtuve la flag.
+
 ![CTF](img/4.png)
 
 ![CTF](img/5.png)
 
-De esta forma obtuve la flag.
 
 ![VON](../../von.jpg)
