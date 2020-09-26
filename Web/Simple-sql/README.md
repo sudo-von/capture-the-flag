@@ -1,4 +1,4 @@
-# So-simple
+# Simple-SQL
 
 ![CTF](img/1.png)
 
