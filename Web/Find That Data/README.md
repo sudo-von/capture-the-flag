@@ -33,8 +33,6 @@ así que sabía que no hacía falta realmente llegar al extremo del laberinto pa
 
 ![CTF](img/6.png)
 
-Así obtuve la flag.
+De esta forma obtuve la flag.
 
 ![VON](../../von.gif)
-
-De esta forma obtuve la flag.
