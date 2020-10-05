@@ -4,18 +4,16 @@
 
 ![CTF](img/2.png)
 
-En lo personal detesto este tipo de retos pues más allá de sólo aportar el aprender
-a inspeccionar los elementos no aporta nada valioso. Este reto consiste en ir obteniendo
-las partes de las flag de los diferentes archivos que puedes encontrar.
+Este reto fue sencillo pero interesante pues te permite aprender cómo desofuscar código de javascript para que sea más entendible
+cuando usan este tipo de ofuscamiento.
 
 ![CTF](img/3.png)
 
+Al encontrar el script con el que podía escribir en la pantalla me topé con un arreglo bastante "extraño", sin embargo,
+gracias a otros CTFS supe cómo obtener la información de manera más entendible. Bastó con copiar el nombre del arreglo
+en la consola del navegador en la página para obtener los valores en un formato mucho más entendible sin tener que
+decodificar nada por mi parte.
+
 ![CTF](img/4.png)
-
-![CTF](img/5.png)
-
-![CTF](img/6.png)
-
-![CTF](img/7.png)
 
 ![VON](../../von.gif)
