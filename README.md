@@ -1,6 +1,6 @@
-# DarkCTF-2020
+# Bo1lers-bootcamp-ctf
 
-Repositorio con la redacción de los retos del CTF Angstrong 2020. 
+Repositorio con la redacción de los retos del bo1lers-bootcamp-ctf 2020. 
 Mismo en el que entré al top 125 compitiendo solo contra más de 900 equipos
 resolviendo 5/5 retos de la categoría Misc y 6/8 retos de la categoría Web.
 
