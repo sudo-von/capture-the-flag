@@ -48,7 +48,7 @@ que le podía modificar las calificaciones por lo que utilizando la misma estruc
 
 ¡Funcionó! Ya sólo era necesario cambiar sus calificaciones.
 
-![CTF](img/13.jpg)
+![CTF](img/13.png)
 
 De esta forma vulneré todo el sitio y obtuve la flag.
 
