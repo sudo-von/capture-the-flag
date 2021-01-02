@@ -1,0 +1,1729 @@
+Function: strlen
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strcmp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strncmp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strcasecmp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: each
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: define
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: defined
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: get_class
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_a
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: user_error
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gc_enabled
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gc_enable
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gc_disable
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strtotime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: date
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: idate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gmdate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: mktime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gmmktime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: checkdate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strftime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gmstrftime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: time
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: localtime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getdate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: date_parse
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: date_add
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: date_sub
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: date_diff
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: preg_match
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: preg_split
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: preg_quote
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: preg_grep
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: readgzfile
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+<?php
+
+$flagsssssssss = "TetCTF{lixi_50k_<3_vina_*100*25926415724382#}";
+
+?>
+
+Function: gzrewind
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzclose
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzeof
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzgetc
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzgets
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzgetss
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzread
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzopen
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzpassthru
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzseek
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gztell
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzwrite
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzputs
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzfile
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzcompress
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzdeflate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzinflate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzencode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gzdecode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filter_var
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filter_id
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_file
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_hmac
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_init
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_final
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_copy
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_algos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hash_hkdf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: mhash
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: session_id
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: session_gc
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sodium_add
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sodium_pad
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: class_uses
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: constant
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: bin2hex
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: hex2bin
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: sleep
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: usleep
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strptime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: flush
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: wordwrap
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sha1
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: sha1_file
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: md5
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: md5_file
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: crc32
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: iptcparse
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: iptcembed
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: phpinfo
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: phpversion
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: phpcredits
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: php_uname
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strnatcmp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strspn
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strcspn
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strtok
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strtoupper
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strtolower
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strpos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: stripos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strrpos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strripos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strrev
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hebrev
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hebrevc
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: nl2br
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: basename
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dirname
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: pathinfo
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strstr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: stristr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strrchr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: str_split
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strpbrk
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strcoll
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: substr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: quotemeta
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ucfirst
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: lcfirst
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ucwords
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strtr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: addslashes
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: rtrim
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: str_repeat
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: trim
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ltrim
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strip_tags
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: explode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: implode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: join
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: setlocale
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: localeconv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: soundex
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: chr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ord
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: parse_str
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: str_getcsv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: str_pad
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: chop
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strchr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sprintf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: printf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+/var/www/html/fl4g_here_but_can_you_get_it_hohoho.php
+Function: vprintf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: vsprintf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fprintf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: vfprintf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sscanf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fscanf
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: parse_url
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: urlencode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: urldecode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: readlink
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: linkinfo
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: symlink
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: link
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: unlink
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: exec
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: system
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: passthru
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shell_exec
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: proc_open
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: proc_close
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: proc_nice
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: rand
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: srand
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getrandmax
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: mt_rand
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: mt_srand
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: random_int
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getmyuid
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getmygid
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getmypid
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getmyinode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getlastmod
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: abs
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ceil
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: floor
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: round
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sin
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: cos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: tan
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: asin
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: acos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: atan
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: atanh
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: atan2
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: sinh
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: cosh
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: tanh
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: asinh
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: acosh
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: expm1
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: log1p
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: pi
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_finite
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_nan
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: pow
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: exp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: log
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: log10
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: sqrt
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hypot
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: deg2rad
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: rad2deg
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: bindec
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: hexdec
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: octdec
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: decbin
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: decoct
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dechex
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fmod
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: intdiv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: inet_ntop
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: inet_pton
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ip2long
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: long2ip
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: getenv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: putenv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getopt
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: microtime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getrusage
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: uniqid
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: error_log
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: serialize
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: var_dump
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+string(53) "/var/www/html/fl4g_here_but_can_you_get_it_hohoho.php"
+
+Function: var_export
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+'/var/www/html/fl4g_here_but_can_you_get_it_hohoho.php'
+Function: print_r
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+/var/www/html/fl4g_here_but_can_you_get_it_hohoho.php
+Function: ini_get
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ini_set
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ini_alter
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: setcookie
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: header
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: checkdnsrr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dns_get_mx
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getmxrr
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: intval
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: floatval
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: doubleval
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: strval
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: boolval
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gettype
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: settype
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_null
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_bool
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_int
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_float
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_integer
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_long
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_double
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_real
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_numeric
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_string
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_array
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_object
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_scalar
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: pclose
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: popen
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: readfile
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+<?php
+
+$flagsssssssss = "TetCTF{lixi_50k_<3_vina_*100*25926415724382#}";
+
+?>
+
+Function: rewind
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: rmdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: umask
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fclose
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: feof
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fgetc
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fgets
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fgetss
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fread
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fopen
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fpassthru
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftruncate
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fstat
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fseek
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftell
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fflush
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fwrite
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fputs
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: mkdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: rename
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: copy
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: tempnam
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: tmpfile
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: file
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fgetcsv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fputcsv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: flock
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: realpath
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fnmatch
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fsockopen
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: pfsockopen
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: pack
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: unpack
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: crypt
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: opendir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: closedir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: chdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: getcwd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: rewinddir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: readdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: scandir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: glob
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fileatime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filectime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filegroup
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fileinode
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filemtime
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fileowner
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: fileperms
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filesize
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: filetype
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+
+
+Function: is_file
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_dir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: is_link
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: stat
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: lstat
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: chown
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: chgrp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: lchown
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: lchgrp
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: chmod
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: touch
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: mail
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ezmlm_hash
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: openlog
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: syslog
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: closelog
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: lcg_value
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: metaphone
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ob_start
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ob_flush
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ob_clean
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ksort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: krsort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: natsort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: asort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: arsort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: rsort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: usort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: uasort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: uksort
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shuffle
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_walk
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: count
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: end
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: prev
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: next
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: reset
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: current
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: key
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: min
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: max
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: in_array
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: extract
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: compact
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_fill
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: range
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_push
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_pop
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_keys
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_pad
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_flip
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_rand
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_diff
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_sum
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: array_map
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: pos
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sizeof
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: key_exists
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: assert
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftok
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: str_rot13
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+bumbadum badum
+Function: virtual
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: jdtojulian
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: juliantojd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: jdtojewish
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: jewishtojd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: jdtofrench
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: frenchtojd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: unixtojd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: jdtounix
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: cal_to_jd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: cal_info
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: finfo_open
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: finfo_file
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_login
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_pwd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_cdup
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_chdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_exec
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_raw
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_mkdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_rmdir
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_chmod
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_alloc
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_nlist
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_mlsd
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_pasv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_get
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_fget
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_put
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_append
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_fput
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_size
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_mdtm
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_rename
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_delete
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_site
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_close
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_nb_get
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_nb_put
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ftp_quit
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: textdomain
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: gettext
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: _
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dgettext
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dcgettext
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: ngettext
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dngettext
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: dcngettext
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: iconv
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: posix_kill
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: readline
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shmop_open
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shmop_read
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shmop_size
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: msg_send
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sem_get
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: sem_remove
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shm_attach
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shm_remove
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: shm_detach
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
+Function: token_name
+Response: <!-- Let's pray for new year lucky things <3 -->
+
+
