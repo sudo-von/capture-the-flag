@@ -12,8 +12,10 @@ Web
 
 ## Miembros del equipo:
 
-[Von](https://github.com/developer-jesus-github)
-[Lupita](https://github.com/guadalupejaime)
+<ul>
+    <li>[Von](https://github.com/developer-jesus-github)</li>
+    <li>[Lupita](https://github.com/guadalupejaime)</li>
+</ul>
 
 ## Remember us and remember that we lived
 
