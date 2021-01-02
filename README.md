@@ -12,18 +12,12 @@ Web
 
 ## Miembros del equipo:
 
-![team](von.gif)
-
-</br>
-
 [Von](https://github.com/developer-jesus-github)
-
-</br>
-
-![team](lupita.gif)
 
 </br>
 
 [Lupita](https://github.com/guadalupejaime)
 
 ## Remember us and remember that we lived
+
+[Von](https://github.com/developer-jesus-github)
