@@ -1,6 +1,6 @@
 # TetCTF-2020
 
-[TetCTF](tet.png)
+![TetCTF](tet.png)
 
 En este repositorio encontrarás la solución de los retos del TetCTF-2020 en el que participamos por primera vez juntos.
 
