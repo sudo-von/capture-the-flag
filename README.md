@@ -1,4 +1,4 @@
-# TetCTF-2020
+# TetCTF-2021
 
 ![TetCTF](tet.png)
 
@@ -12,10 +12,8 @@ Web
 
 ## Miembros del equipo:
 
-<ul>
-    <li>[Von](https://github.com/developer-jesus-github)</li>
-    <li>[Lupita](https://github.com/guadalupejaime)</li>
-</ul>
+[Von](https://github.com/developer-jesus-github)
+[Lupita](https://github.com/guadalupejaime)
 
 ## Remember us and remember that we lived
 
