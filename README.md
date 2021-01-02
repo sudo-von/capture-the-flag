@@ -13,11 +13,8 @@ Web
 ## Miembros del equipo:
 
 [Von](https://github.com/developer-jesus-github)
-
-</br>
-
 [Lupita](https://github.com/guadalupejaime)
 
 ## Remember us and remember that we lived
 
-[Von](https://github.com/developer-jesus-github)
+[Von](von.gif)
