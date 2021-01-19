@@ -4,7 +4,7 @@
 
 ![0xL4ughCTF-2021](img/1.png)
 
-In this challenger you could buy the flag if you had the necessary money but as you can see you did not have the necessary money for almost anything.
+In this challenges you could buy the flag if you had the necessary money but as you can see you did not have the necessary money for almost anything.
 
 ![0xL4ughCTF-2021](img/2.png)
 
