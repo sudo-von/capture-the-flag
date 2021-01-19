@@ -23,7 +23,7 @@ And this seems to indicate that it was an "eval" challenge where the expression 
 ![0xL4ughCTF-2021](img/6.png)
 ![0xL4ughCTF-2021](img/7.png)
 
-So by coding the following code I got the names of the files at the folder level to confirm that it was possible to evaluate my expression.
+So by adding the following code I got the names of the files at the folder level to confirm that it was possible to evaluate my expression.
 
 ![0xL4ughCTF-2021](img/8.png)
 
