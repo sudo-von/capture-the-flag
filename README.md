@@ -9,6 +9,7 @@ where I reached the TOP 60 worldwide competing against more than 800 players.
 ```
 Web
 Forensics
+Reverse
 ```
 ## Remember us and remember that we lived
 
