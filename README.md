@@ -2,17 +2,17 @@
 
 ![TetCTF](tet.png)
 
-En este repositorio encontrarás la solución de los retos del TetCTF-2020 en el que participamos por primera vez juntos.
-
-## Categorías
+In this repository you will find the solution to the challenges of the TetCTF-2020.
+## Categories
 
 ```
 Web
 ```
 
-## Miembros del equipo:
-
+## Members:
+[von](https://pa1.narvii.com/6381/b8ad2689da7cdd838947769be25f7e65d41c78c2_00.gif)
 [Von](https://github.com/developer-jesus-github)
+[Lupita](https://media0.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif)
 [Lupita](https://github.com/guadalupejaime)
 
 ## Remember us and remember that we lived
