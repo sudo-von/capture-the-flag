@@ -2,7 +2,7 @@
 
 ![TetCTF](tet.png)
 
-In this repository you will find the solution of the the TetCTF-2020 challenges.
+In this repository you will find the solution of the TetCTF-2020 challenges.
 ## Categories
 
 ```
