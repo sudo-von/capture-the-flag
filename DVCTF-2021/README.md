@@ -41,22 +41,22 @@ I got the 106th place without a team competing against more than 350 teams.
 ## Problems
 | Web  |
 | ------------- |
-| [Obfuscation](/Web/obfuscation/README.md)|
-| [Authentication](/Web/authentication/README.md)|
-| [Members](/Web/members/README.md)|
+| [Obfuscation](https://github.com/sudo-von/capture-the-flag/tree/master/DVCTF-2021/Web/obfuscation/README.md)|
+| [Authentication](https://github.com/sudo-von/capture-the-flag/tree/master/DVCTF-2021/Web/authentication/README.md)|
+| [Members](https://github.com/sudo-von/capture-the-flag/tree/master/DVCTF-2021/Web/members/README.md)|
 
 | Stega  |
 | ------------- |
-| [Read](/Stega/read/README.md)|
-| [Pidieff](/Stega/pidieff/README.md)|
+| [Read](https://github.com/sudo-von/capture-the-flag/tree/master/DVCTF-2021/Stega/read/README.md)|
+| [Pidieff](https://github.com/sudo-von/capture-the-flag/tree/master/DVCTF-2021/Stega/pidieff/README.md)|
 
 <!-- CONTACT -->
 ## Contact
 
 | Social networks |
 | --------------- |
-|[https://instagram.com/sudo_von](https://instagram.com/sudo_von)
-|[https://twitter.com/sudo_von](https://twitter.com/sudo_von)
+|[https://www.instagram.com/sudo_von](https://instagram.com/sudo_von)
+|[https://www.twitter.com/sudo_von](https://twitter.com/sudo_von)
 |sudo.von.contact@gmail.com
 
 Project Link: [https://github.com/sudo-von/capture-the-flag](https://github.com/sudo-von/capture-the-flag)
