@@ -32,7 +32,7 @@ Notice that the only difference are the quotes.
 Possible SQLI:
 ``` SELECT * FROM table WHERE field LIKE "%variable%" and id=1;-- - %"; ```
 
-And it worked, if i changed the id then the query returned a different member so let's try a UNION SELECT attack.
+And it worked, if i changed the id then the query returned a different member so let's try an UNION SELECT attack.
 
 ![img](img/5.png)
 
