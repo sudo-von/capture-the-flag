@@ -8,7 +8,7 @@
 <p align="center">
     Write-ups for the DVCTF-2021 competition where i have participated. 
     <br/>
-    <a href="https://github.com/sudo-von/capture-the-flag"><strong>Explore my other repositories »</strong></a>
+    <a href="https://github.com/sudo-von"><strong>Explore my other repositories »</strong></a>
     <br/>
     <small>Remember us, remember that we lived.</small>
   </p>
