@@ -35,7 +35,7 @@
 <!-- ABOUT THE REPOSITORY -->
 ## About the repository
 
-I decided to create a repository to document all the challenges that I have solved throughout my journey as a computer security hobbyist and to be able to share it with others so that we can learn together.
+I decided to create a repository to document all the challenges that I have solved throughout my journey as a computer security hobbyist to be able to share it with others.
 
 ### Challenges solved with
 
@@ -47,10 +47,11 @@ I decided to create a repository to document all the challenges that I have solv
 <!-- CONTACT -->
 ## Contact
 
-Von - [@sudo_von](https://twitter.com/sudo_von) - sudo.von.contact@gmail.com
-
-Project Link: [https://github.com/sudo-von/capture-the-flag](https://github.com/sudo-von/capture-the-flag)
-
+| Social networks  | URL |
+| ------------- | -------- |
+| Twitter | [https://twitter.com/sudo_von](https://twitter.com/sudo_von) |
+| Twitch | [https://www.twitch.tv/sudo_von](https://www.twitch.tv/sudo_von) |
+| Email | sudo.von.contact@gmail.com |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
