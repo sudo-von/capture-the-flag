@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://64.media.tumblr.com/1cbfcd848cce1437be5da56e7afd5952/6078e4f1b83c1f32-1d/s540x810/5324c73c1fcc5909a5e67209c91189c5adcc96af.gif" alt="Gif" width="250" height="250">
+    <img src="https://pbs.twimg.com/profile_images/1346924481521004545/WXDMS2i-_400x400.jpg" alt="Gif" width="250" height="250">
   </a>
 
   <h3 align="center">0xL4ughCTF</h3>
