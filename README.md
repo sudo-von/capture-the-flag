@@ -4,15 +4,19 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
+
+ <h3 align="center"> Hi, I'm V̵O̵N̵!</h3>
+<h5 align="center"> ̶"̶T̶h̶e̶ ̶s̶p̶h̶i̶n̶x̶ ̶m̶e̶m̶b̶e̶r̶ ̶9̶"̶</h5>
 <p align="center">
   <a>
-    <img src="https://64.media.tumblr.com/1cbfcd848cce1437be5da56e7afd5952/6078e4f1b83c1f32-1d/s540x810/5324c73c1fcc5909a5e67209c91189c5adcc96af.gif" alt="Gif" width="250" height="250">
+    <img src="von.png" alt="Gif" width="250" height="250">
   </a>
 
   <h3 align="center">capture-the-flag</h3>
 
   <p align="center">
-        Write-ups for various CTF competitions and hacking challenges where i have participated. 
+        Welcome to my repository where you will find all of my write-ups for various CTF competitions and hacking challenges where i have participated.
+    <br />
     <br />
     <a href="https://github.com/sudo-von/capture-the-flag"><strong>Explore the docs »</strong></a>
   </p>
@@ -40,9 +44,16 @@ I decided to create a repository to document all the challenges that I have solv
 ### Challenges solved with
 
 * [Python](https://www.python.org/)
+* [Pillow](https://python-pillow.org/)
 * [PHP](https://www.php.net/)
 * [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 * [Golang](https://golang.org/)
+* [Netbeans](https://netbeans.org/)
+* [Java](https://www.java.com/es/)
+* [Android studio](https://developer.android.com/studio)
+* [Dex2jar](https://sourceforge.net/projects/dex2jar/)
+* [Jd-gui](http://java-decompiler.github.io/)
+* [Burpsuite](https://portswigger.net/burp) 
 
 <!-- CONTACT -->
 ## Contact
