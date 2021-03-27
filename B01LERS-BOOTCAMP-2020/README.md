@@ -1,20 +1,48 @@
-# Bo1lers-bootcamp-ctf
+<p align="center">
+  <a>
+    <img src="https://ctftime.org/media/events/b01lers-logo.png" alt="Gif" width="100" height="100">
+  </a>
 
-Repositorio con la redacción de los retos del bo1lers-bootcamp-ctf 2020. 
-Mismo en el que entré al top 125 compitiendo solo contra más de 900 equipos
-resolviendo 5/5 retos de la categoría Misc y 6/8 retos de la categoría Web.
+  <h3 align="center">Bo1lers-bootcamp-ctf</h3>
 
-## Categorías
+<p align="center">
+    Write-ups for the Bo1lers-bootcamp-ctf competition where i have participated. 
+    <br/>
+    <br/>
+    <a href="https://github.com/sudo-von"><strong>Explore my other repositories »</strong></a>
+    <br/>
+    <small>Remember us, remember that we lived.</small>
+  </p>
+</p>
+
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#categories">Categories</a>
+    </li>
+    <li><a href="#highest-place-obtained">Highest place obtained</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+## Categories
+
 ```
 Web
 Misc
 ```
 
-## Redes sociales:
+## Highest place obtained
 
-[Twitter](https://twitter.com/developerjesus)
-[Instagram](https://instagram.com/developerjesus)
+I got the 125th place without a team competing against more than 900 teams.
 
-## Remember us and remember that we lived
+<!-- CONTACT -->
+## Contact
 
-![VON](von.gif)
+| Social networks  | URL |
+| ------------- | -------- |
+| Twitter | [https://twitter.com/sudo_von](https://twitter.com/sudo_von) |
+| Twitch | [https://www.twitch.tv/sudo_von](https://www.twitch.tv/sudo_von) |
+| Email | sudo.von.contact@gmail.com |
