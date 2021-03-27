@@ -1,23 +1,41 @@
-# TetCTF-2021
+<p align="center">
+  <a>
+    <img src="tet.png" alt="Gif" width="200" height="200">
+  </a>
 
-![TetCTF](tet.png)
+  <h3 align="center">TETCTF-2021</h3>
 
-In this repository you will find the solution of the TetCTF-2020 challenges.
+<p align="center">
+    Write-ups for the TETCTF-2021 competition where i have participated. 
+    <br/>
+    <a href="https://github.com/sudo-von"><strong>Explore my other repositories »</strong></a>
+    <br/>
+    <small>Remember us, remember that we lived.</small>
+  </p>
+</p>
+
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#categories">Categories</a>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
 ## Categories
 
 ```
 Web
 ```
 
-## Members:
-![von](https://pa1.narvii.com/6381/b8ad2689da7cdd838947769be25f7e65d41c78c2_00.gif)
-<br>
-[Von](https://github.com/developer-jesus-github)
-<br>
-![Lupita](https://media0.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif)
-<br>
-[Lupita](https://github.com/guadalupejaime)
+<!-- CONTACT -->
+## Contact
 
-## Remember us and remember that we lived
-
-![Von](von.gif)
+| Social networks  | URL |
+| ------------- | -------- |
+| Twitter | [https://twitter.com/sudo_von](https://twitter.com/sudo_von) |
+| Twitch | [https://www.twitch.tv/sudo_von](https://www.twitch.tv/sudo_von) |
+| Email | sudo.von.contact@gmail.com |
