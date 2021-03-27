@@ -1,3 +1,4 @@
+
 <p align="center">
   <a>
     <img src="https://64.media.tumblr.com/1cbfcd848cce1437be5da56e7afd5952/6078e4f1b83c1f32-1d/s540x810/5324c73c1fcc5909a5e67209c91189c5adcc96af.gif" alt="Gif" width="250" height="250">
@@ -45,10 +46,8 @@ Web
 <!-- CONTACT -->
 ## Contact
 
-| Social networks |
-| --------------- |
-|[https://www.instagram.com/sudo_von](https://instagram.com/sudo_von)
-|[https://www.twitter.com/sudo_von](https://twitter.com/sudo_von)
-|sudo.von.contact@gmail.com
-
-Project Link: [https://github.com/sudo-von/capture-the-flag](https://github.com/sudo-von/capture-the-flag)
+| Social networks  | URL |
+| ------------- | -------- |
+| Twitter | [https://twitter.com/sudo_von](https://twitter.com/sudo_von) |
+| Twitch | [https://www.twitch.tv/sudo_von](https://www.twitch.tv/sudo_von) |
+| Email | sudo.von.contact@gmail.com |
