@@ -45,10 +45,8 @@ Web
 <!-- CONTACT -->
 ## Contact
 
-| Social networks |
-| --------------- |
-|[https://www.instagram.com/sudo_von](https://instagram.com/sudo_von)
-|[https://www.twitter.com/sudo_von](https://twitter.com/sudo_von)
-|sudo.von.contact@gmail.com
-
-Project Link: [https://github.com/sudo-von/capture-the-flag](https://github.com/sudo-von/capture-the-flag)
+| Social networks  | URL |
+| ------------- | -------- |
+| Twitter | [https://twitter.com/sudo_von](https://twitter.com/sudo_von) |
+| Twitch | [https://www.twitch.tv/sudo_von](https://www.twitch.tv/sudo_von) |
+| Email | sudo.von.contact@gmail.com |
