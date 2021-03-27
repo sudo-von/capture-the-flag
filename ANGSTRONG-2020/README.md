@@ -1,19 +1,44 @@
-# Angstrong-CTF
+<p align="center">
+  <a>
+    <img src="https://avatars.githubusercontent.com/u/11710590?s=280&v=4" alt="Gif" width="250" height="250">
+  </a>
 
-## Redacción
+  <h3 align="center">Angstrong-CTF</h3>
 
-### Usuario: V̵O̵N̵
+<p align="center">
+    Write-ups for the Angstrong-CTF competition where i have participated. 
+    <br/>
+    <br/>
+    <a href="https://github.com/sudo-von"><strong>Explore my other repositories »</strong></a>
+    <br/>
+    <small>Remember us, remember that we lived.</small>
+  </p>
+</p>
 
-En este repositorio encontrarán la solución de los retos que he resuelto del CTF Angstrong 2020.
-Lo que busco es compartir lo poco que sé para que así la gente pueda mejorar y que esta pequeña comunidad pueda crecer con el tiempo haciendo que este sea más competitiva y divertida.
 
-En esta ocasión he resuelto 8 retos de la plataforma.
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#categories">Categories</a>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-## Redes:
+## Categories
 
-* [Twitter](https://twitter.com/developerjesus)
-* [Instagram](https://www.instagram.com/developerjesus/)
+```
+Web
+Forensics
+Reverse
+```
 
-### Remember us and remember that we lived
+<!-- CONTACT -->
+## Contact
 
-![Screenshot](Images/von.jpg)
+| Social networks  | URL |
+| ------------- | -------- |
+| Twitter | [https://twitter.com/sudo_von](https://twitter.com/sudo_von) |
+| Twitch | [https://www.twitch.tv/sudo_von](https://www.twitch.tv/sudo_von) |
+| Email | sudo.von.contact@gmail.com |
