@@ -9,7 +9,7 @@
 <h5 align="center"> ̶"̶T̶h̶e̶ ̶s̶p̶h̶i̶n̶x̶ ̶m̶e̶m̶b̶e̶r̶ ̶9̶"̶</h5>
 <p align="center">
   <a>
-    <img src="von.png" alt="Gif" width="250" height="250">
+    <img src="von.png" width="250" height="250">
   </a>
 
   <h3 align="center">capture-the-flag</h3>
