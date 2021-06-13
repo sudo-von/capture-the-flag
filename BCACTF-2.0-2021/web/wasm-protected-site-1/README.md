@@ -20,9 +20,9 @@ I added comments to understand better the code.
 
 ![BCACTF-2.0](img/6.png)
 
-What i did was to decode the binary and that's how i could see the flag,
+What i did was to decode the binary, that's how i could see the flag but
 if you want to know why did this happend was because the strings were hardcoded in the binary.
-That's why in some forensics challenge you can get the flag/password if the flag/password was hardcoded.
+That's why in some forensic challenges you can get the flag/password if the flag/password was hardcoded.
 In this case i decoded the binary and then just removed what i didn't need.
 
 ![BCACTF-2.0](img/7.png)
