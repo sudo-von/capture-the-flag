@@ -3,10 +3,10 @@
     <img src="bactf.svg" width="250" height="250">
   </a>
 
-  <h3 align="center">0xL4ughCTF</h3>
+  <h3 align="center">BCACTF-2.0-2021</h3>
 
 <p align="center">
-    Write-ups for the 0xL4ughCTF competition where i have participated. 
+    Write-ups for the BCACTF-2.0-2021 competition where i have participated. 
     <br/>
     <br/>
     <a href="https://github.com/sudo-von"><strong>Explore my other repositories »</strong></a>
